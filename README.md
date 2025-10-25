@@ -17,4 +17,4 @@
 1.  确保您的浏览器已安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 扩展。
 2.  点击下方的链接进行安装：
 
-[➡️ **点击此处安装脚本**](https://raw.githubusercontent.com/KDH-KDHKDH/Bilibili-Disable-Live-P2P/main/disable-bilibili-p2p.user.js)
+[➡️ **点击此处安装脚本**](https://raw.githubusercontent.com/KDH-KDHKDH/Bilibili-Disable-Live-P2P/disable-bilibili-p2p.user.js)
